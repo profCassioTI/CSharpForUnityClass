@@ -4,6 +4,12 @@ using UnityEngine;
 
 public class Aulas : MonoBehaviour
 {
+    public int idade = 0;
+    public float altura = 0;
+    private int vida = 3;
+    public int stamina = 4;
+    public float velocidade = 5;
+
     // Start is called before the first frame update
     void Start()
     {
