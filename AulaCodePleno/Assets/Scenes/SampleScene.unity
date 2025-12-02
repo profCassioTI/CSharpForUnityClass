@@ -227,6 +227,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7e240a9adefb574387aa4aa51eea568, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  idade: 0
+  vida: 3
+  stamina: 4
+  altura: 0
+  velocidade: 5
+  vivo: 1
+  nome_presonagem: "Jo\xE3o"
+  nome_inimigo: Gigante
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
